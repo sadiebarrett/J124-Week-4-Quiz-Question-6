@@ -8,4 +8,4 @@ As someone who almost always reclines their seat in an aeroplane, I was surprise
 
 This is the chart I made in an earlier exercise:
 
-![This is a data wrapper chart](flyer-datawrapper-chart)
+![This is a data wrapper chart](2G5Tw-how-often-to-flyers-recline-their-seats-when-flying-nbsp-.png)
